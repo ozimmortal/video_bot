@@ -16,6 +16,7 @@ This project aims to develop a Python-based bot that automates basic video editi
       ``` git clone https://github.com/ozimmortal/video_bot ``` or Download the .zip file 
   * Run in the terminal
       ``` pip install -r requirements.txt ```
+  * Create and Add you're directory that contains the music file inside the project
   * Run
        ``` python bot.py```
 
