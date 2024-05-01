@@ -116,7 +116,7 @@ def create_subtitle_clips(subtitles, videosize,fontsize=22, font='Arial-Bold',st
 def edit_video(audio,vid_clip)->None:
    
     sub = transcribe(audio)
-    bg_song = random.choice(os.listdir(os.path.join('C://')))
+    bg_song = random.choice(os.listdir(os.path.join(os.getcwd(),'music')))
     bg_song = "music/" + bg_song
     audio_clip = AudioFileClip(audio)
     audio_duration = audio_clip.duration
