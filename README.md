@@ -21,7 +21,11 @@ This project aims to develop a Python-based bot that automates basic video editi
        ``` python bot.py```
 
 ## Example
-[4p9p4]([https://www.python.org/downloads/release/python-3119/](https://github.com/ozimmortal/video_bot/assets/78490326/a39c6e3b-3b31-47d2-ae47-4b4749fe45d6))
+
+
+
+https://github.com/ozimmortal/video_bot/assets/78490326/53dcaa4c-835d-4d24-aa2a-59984b6363e1
+
 
 ## Authors
 Contributors name
