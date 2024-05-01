@@ -17,7 +17,7 @@ def text_to_speech(tts,txt:str) -> str:
     name = ''.join(random.choices(string.ascii_uppercase + string.digits, k=6))
     print("generating speech...")
     tts.tts_to_file(text=txt,
-                file_path=f"audio/{name}.wav",
+                file_path=f"{name}.wav",
                 split_sentences=True,
                 language="en",
                 speaker="Damien Black",
