@@ -21,7 +21,8 @@ This project aims to develop a Python-based bot that automates basic video editi
        ``` python bot.py```
 
 ## Example
-!https://github.com/ozimmortal/video_bot/assets/78490326/a39c6e3b-3b31-47d2-ae47-4b4749fe45d6
+[4p9p4]([https://www.python.org/downloads/release/python-3119/](https://github.com/ozimmortal/video_bot/assets/78490326/a39c6e3b-3b31-47d2-ae47-4b4749fe45d6))
+
 ## Authors
 Contributors name
   Oliyad Zelalem
