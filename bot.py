@@ -9,7 +9,7 @@ from faster_whisper import WhisperModel
 from moviepy.audio.fx import volumex
 
 def get_quote()->list:
-    res =  requests.get("https://api.quotable.io/quotes/random?tags=Success|maxLength=30").json()
+    res =  requests.get("https://api.quotable.io/quotes/random?tags=Success|minLength=50|maxLength=100").json()
     quote = res[0]["content"]
     print("found a quote")
     return quote
